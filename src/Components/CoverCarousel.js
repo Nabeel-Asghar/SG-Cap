@@ -6,7 +6,6 @@ import "../SharedStyles.scss";
 
 function CoverCarousel(props) {
   const { covers } = props;
-  console.log(covers);
   return (
     <Carousel
       additionalTransfrom={0}
