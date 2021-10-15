@@ -11,7 +11,7 @@ function CoverCarousel(props) {
       additionalTransfrom={0}
       arrows
       autoPlay
-      autoPlaySpeed={2000}
+      autoPlaySpeed={3000}
       className=""
       containerClass="container-with-dots"
       dotListClass=""
@@ -36,7 +36,7 @@ function CoverCarousel(props) {
       }}
       showDots={false}
       sliderClass=""
-      slidesToSlide={2}
+      slidesToSlide={1}
       swipeable
     >
       {covers &&
