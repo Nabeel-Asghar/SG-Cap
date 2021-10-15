@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/SG-Cap/static/css/main.e2da654c.chunk.css",
+    "main.js": "/SG-Cap/static/js/main.fb946e62.chunk.js",
+    "main.js.map": "/SG-Cap/static/js/main.fb946e62.chunk.js.map",
+    "runtime-main.js": "/SG-Cap/static/js/runtime-main.e882cf75.js",
+    "runtime-main.js.map": "/SG-Cap/static/js/runtime-main.e882cf75.js.map",
+    "static/css/2.88a1487c.chunk.css": "/SG-Cap/static/css/2.88a1487c.chunk.css",
+    "static/js/2.26c8e05c.chunk.js": "/SG-Cap/static/js/2.26c8e05c.chunk.js",
+    "static/js/2.26c8e05c.chunk.js.map": "/SG-Cap/static/js/2.26c8e05c.chunk.js.map",
+    "static/js/3.0203a672.chunk.js": "/SG-Cap/static/js/3.0203a672.chunk.js",
+    "static/js/3.0203a672.chunk.js.map": "/SG-Cap/static/js/3.0203a672.chunk.js.map",
+    "index.html": "/SG-Cap/index.html",
+    "static/css/2.88a1487c.chunk.css.map": "/SG-Cap/static/css/2.88a1487c.chunk.css.map",
+    "static/css/main.e2da654c.chunk.css.map": "/SG-Cap/static/css/main.e2da654c.chunk.css.map",
+    "static/js/2.26c8e05c.chunk.js.LICENSE.txt": "/SG-Cap/static/js/2.26c8e05c.chunk.js.LICENSE.txt",
+    "static/media/generic-cover.9efb5c56.jpg": "/SG-Cap/static/media/generic-cover.9efb5c56.jpg",
+    "static/media/styles.css": "/SG-Cap/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e882cf75.js",
+    "static/css/2.88a1487c.chunk.css",
+    "static/js/2.26c8e05c.chunk.js",
+    "static/css/main.e2da654c.chunk.css",
+    "static/js/main.fb946e62.chunk.js"
+  ]
+}
